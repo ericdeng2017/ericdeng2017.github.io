@@ -1,3 +1,13 @@
-|layout   |title         |subtitle             |date      |author    |header-img    |catalog    |tags    |
-| :-:     |:-:            |:-:                  | :-:  | :-: | :-: | :-: | :-: |
-|post     |Hello Everyone|This is my first blog|2017-08-02|Eric      |              |True       |
+---
+layout:     post
+title:      Mac 快速调出终端
+subtitle:   在Mac下为终端设置快捷键
+date:       2017-02-06
+author:     BY
+header-img: img/post-bg-re-vs-ng2.jpg
+catalog: true
+tags:
+    - Mac
+    - 效率
+    - 开发技巧
+---
