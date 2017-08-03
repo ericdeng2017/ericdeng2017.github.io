@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      Mac 快速调出终端
-subtitle:   在Mac下为终端设置快捷键
-date:       2017-02-06
-author:     BY
+title:      Hello Everyone
+subtitle:   This is my first blog
+date:       2017-08-02
+author:     Eric
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
-    - Mac
-    - 效率
-    - 开发技巧
+    - State of mind
+    - Spirit
 ---
 >This is my first blog!
 ## Hello World!!!
